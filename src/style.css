@@ -83,7 +83,7 @@ body{min-height: 110vh;}
 .work .content{display: flex;justify-content: center;flex-direction: row;flex-wrap: wrap;margin-top: 20px;}
 .work .content .card{width: 340px;margin: 5px;}
 .work .content .card .card_img{position: relative;width: 100%;height: 260px; overflow: hidden;}
-.work .content .card .card_img img{position: absolute;top: 0;left: 0;width: 100%;height: 100%; object-fit: cover;border-radius: 10px;transition: .5s ease;}
+.work .content .card .card_img img{position: absolute;top: 0;left: 0;width: 100%;height: 100%; object-fit: cover;transition: .5s ease;}
 .work .content .card .card_img img:hover{transform: scale(1.2);}
 
 /* contact section css */
@@ -129,8 +129,8 @@ body{min-height: 110vh;}
     header .navigation a{color: #000;font-size: 1.2;margin: 10px;padding: 0 20px;border-radius: 20px;}
     header .navigation a:hover{background: #b98d14;color: #fff;transition: .3s ease;}
     /*filter:invert(1)-color inverse (convert black into white */
-    .menu_btn{position: absolute;background: url(images/iconfinder_menu.png)no-repeat;background-size:25px;background-position:center;width:40px;height:40px;right:0;margin:0 20px;cursor:pointer;transition:.3s ease;filter: invert(1);}
-    .menu_btn.active{z-index:999;background: url(images/iconfinder_iclose.png)no-repeat;background-size:25px;background-position:center;transition:.3s ease;filter: invert(0)}
+    .menu_btn{position: absolute;background: url(/images/iconfinder_menu.png)no-repeat;background-size:25px;background-position:center;width:40px;height:40px;right:0;margin:0 20px;cursor:pointer;transition:.3s ease;filter: invert(1);}
+    .menu_btn.active{z-index:999;background: url(/images/iconfinder_iclose.png)no-repeat;background-size:25px;background-position:center;transition:.3s ease;filter: invert(0)}
 
     
     /* main image section */
