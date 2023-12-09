@@ -1,17 +1,14 @@
 
 <h1 align='center'>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+Namaste+Welcome!+to+my+GitHub+Profile+I'm+Sachin+Pavale+You+are+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+Namaste+Welcome!+to+my+GitHub+Profile+I'm+Sachin+You+are+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 
 <h3 align='center'>
-  A Front-End  Developer | UI Designer  | Creative Graphic Designer  based in India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
+  A Front-End  Developer | UI Designer  | Creative Graphic Designer  based in India  <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
 </h3>
 
-<div align='center'>
-  <img src="[https://komarev.com/ghpvc/?username=chetannada&style=flat-square&color=blue](https://sachinpavale.github.io/)" alt="Profile Views" />
-</div>
-<br/>
-<img src="[/images/myphoto.jpg](https://github.com/sachinpavale/sachinpavale.github.io/blob/main/images/sachin.png)" alt="Graphic Designer" />
+
+<img src="https://sachinpavale.github.io/images/sachin.png" alt="Graphic Designer" />
 <br/>
 
 
@@ -29,7 +26,7 @@ I'm always eager to learn new skills and stay updated on the latest design trend
 
 💪 Passionate about Competitive Coding
 
-🤝[How to reach me](https://www.youtube.com/@ClickHow/about)**
+🤝[How to reach me](https://sachinpavale.github.io/)**
 
 📄 Know about my experiences at my **[LinkedIn Profile](https://linkedin.com/in/)**
 
@@ -91,7 +88,7 @@ I'm always eager to learn new skills and stay updated on the latest design trend
 <br/>
 
 ## Operating System
-[![Mac](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=apple&logoColor=white)](https://www.microsoft.com/)
+[![Mac](https://img.shields.io/badge/Ios-0078D6?style=for-the-badge&logo=apple&logoColor=white)](https://www.microsoft.com/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/)
 
 ## 🏆 Trophies:
