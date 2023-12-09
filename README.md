@@ -1,30 +1,41 @@
 
-<h1 align='center'>
+<h1 align='center'color='white' >
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8%2C+Namaste!+Welcome+to+my+GitHub+Profile%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 
-I'm a multi-disciplinary graphic designer. I currently work as a Creative Graphic Designer on a freelance basis.
+   I'm a multi-disciplinary graphic designer. I currently work as a Creative Graphic Designer on a freelance basis.
 I'm always eager to learn new skills and stay updated on the latest design trends. I frequently explore online resources and attend industry workshops and events.I'm actively expanding my skills in UI Design and front-end Development.<img style="vertical-align: bottom" src="[https://sachinpavale.github.io/](https://sachinpavale.github.io/)" alt="Daily Coding" width="30" />
 
+
+
  💻 All of my projects are available at **[My Portfolio](https://sachinpavale.github.io/)**
-🤝[How to reach me](https://sachinpavale.github.io/)**
+       
+    Any questions or comments about my work please don't hesitate to contact me. 
 
-Any questions or comments about my work please don't hesitate to contact me. 
 
-💪 Passionate about Creative Design &  Competitive Coding 
+
+
 
 🔰 Connect me with Social Media
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:call2pavale.sachin@gmail.com)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
+
+
+
 🎃 Check my Coding Profile:
+
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/)
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/)
 
 
+
+
 ♨ Languages:
+
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -38,7 +49,6 @@ Any questions or comments about my work please don't hesitate to contact me.
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 [![reduxjs](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
 [![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
-
 
 [![reactrouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/en/main)
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
@@ -58,19 +68,30 @@ Any questions or comments about my work please don't hesitate to contact me.
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
 
 
+
+
+
 🛠 Tools
-[![material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
+
+
 [![adobe photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.adobe.com/in/products/photoshop.html)
-[![adobe illustrator](https://img.shields.io/badge/Adobe%20Illustrator-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.adobe.com/in/products/photoshop.html)
+[![adobe illustrator](https://img.shields.io/badge/Adobe%20Illustrator-31A8FF?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=black)](https://www.adobe.com/in/products/photoshop.html)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
-<br/>
+[![material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
+
+
+
 
 🖥 Operating System
+
 [![Mac](https://img.shields.io/badge/Ios-0078D6?style=for-the-badge&logo=apple&logoColor=white)](https://www.microsoft.com/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/)
 
+
+
+
 🏆 Trophies:
+
 <a href="https://github.com/ryo-ma/github-profile-trophy"></a>
 <img width="50%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=sachinpavale&row=4&theme=onedark&no-frame=true" />
 
