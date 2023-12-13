@@ -1,6 +1,6 @@
 
-<h1 align='center'color='white' >
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8%2CNamaste!+Welcome+to+my+GitHub+Profile%F0%9F%8C%9F" alt="Typing SVG" />
+<h1 align='center'>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+Namaste!+Welcome+to+my+GitHub+profile+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 
    I'm a multi-disciplinary graphic designer. I currently work as a Creative Graphic Designer on a freelance basis.
@@ -13,14 +13,6 @@ I'm always eager to learn new skills and stay updated on the latest design trend
     Any questions or comments about my work please don't hesitate to contact me. 
 
 
-
-
-
-🔰 Connect me with Social Media
-[![Facebook](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=instgram&logoColor=white)](https://www.facebook.com/sachin.pavale)
-[![Instgram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=instgram&logoColor=white)](https://www.instagram.com/sachin.pavale/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
 
