@@ -4,7 +4,7 @@
 </h1>
 
    I'm a multi-disciplinary graphic designer. I currently work as a Creative Graphic Designer on a freelance basis.
-I'm always eager to learn new skills and stay updated on the latest design trends. I frequently explore online resources and attend industry workshops and events. I'm actively expanding my skills in UI Design and front-end Development.<img style="vertical-align: bottom" src="[https://sachinpavale.github.io/](https://sachinpavale.github.io/)" alt="Daily Coding" width="30" />
+I'm always eager to learn new skills and stay updated on the latest design trends. I frequently explore online resources and attend industry workshops and events. I'm actively expanding my skills in UI Design and front-end Development.
 
 
 
@@ -66,8 +66,8 @@ I'm always eager to learn new skills and stay updated on the latest design trend
 🛠 Tools
 
 
-[![adobe photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.adobe.com/in/products/photoshop.html)
-[![adobe illustrator](https://img.shields.io/badge/Adobe%20Illustrator-31A8FF?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=black)](https://www.adobe.com/in/products/photoshop.html)
+[![adobe photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.techtarget.com/whatis/definition/Photoshop)
+[![adobe illustrator](https://img.shields.io/badge/Adobe%20Illustrator-f8a829?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=black)](https://www.agitraining.com/adobe/illustrator/classes/what-is-adobe-illustrator)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
 
@@ -76,7 +76,7 @@ I'm always eager to learn new skills and stay updated on the latest design trend
 
 🖥 Operating System
 
-[![Mac](https://img.shields.io/badge/Ios-0078D6?style=for-the-badge&logo=apple&logoColor=white)](https://www.microsoft.com/)
+[![Mac](https://img.shields.io/badge/Ios-0078D6?style=for-the-badge&logo=apple&logoColor=white)](https://https://www.apple.com/imac//)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/)
 
 
